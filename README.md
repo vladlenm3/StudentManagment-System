@@ -7,7 +7,7 @@ information is stored in a file and verified during the login process.
 
 I chose this project in order to practice concepts and syntax of the C# language.
 
-[Student Managment System C#](http://youtube.link.goes.here)
+[Student Managment System C#](https://youtu.be/2O1pT3-k0xA)
 
 # Development Environment
 
